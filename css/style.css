@@ -1,6 +1,9 @@
 h1 > span{
     color: forestgreen;
 }
+.socials li {
+    list-style: none;
+}
 
 .skills li {
     border-style: solid;
