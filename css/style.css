@@ -5,7 +5,15 @@ h1 > span{
     list-style: none;
 }
 
+.socialIcon img {
+    width: 30px !important;
+}
+
 .skills li {
     border-style: solid;
     border-color: blueviolet;
+}
+
+img {
+    width: 10%;
 }
