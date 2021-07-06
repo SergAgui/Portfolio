@@ -9,11 +9,15 @@ h1 > span{
     width: 30px !important;
 }
 
-.skills li {
-    border-style: solid;
-    border-color: blueviolet;
+.skills {
+    background-color: aquamarine;
 }
 
-img {
+.icon {
+    border: 1px solid black;
     width: 10%;
+}
+
+.icon img {
+    width: 50%;
 }
