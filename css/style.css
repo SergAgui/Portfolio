@@ -20,7 +20,7 @@ h1 > span{
 }
 
 #skills {
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     width: 80%;
     margin: 3% 10%;
     max-width: 120%;
@@ -46,5 +46,8 @@ h1 > span{
 }
 
 .proj img {
-    max-width: 150px;
+    max-width: 600px;
+    min-width: 300px;
+    margin-top:20px;
+    border-radius: 15px;
 }
