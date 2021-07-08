@@ -44,3 +44,7 @@ h1 > span{
 .icon p {
     padding-top: 4px;
 }
+
+.proj img {
+    max-width: 150px;
+}
