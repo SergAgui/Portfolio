@@ -1,5 +1,6 @@
 .inner {
-    
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 h1 > span{
@@ -15,10 +16,10 @@ h1 > span{
 
 #skills {
     background-color: aquamarine;
-    width: 800px;
+    width: 80%;
     margin: 3% 10%;
-    max-width: 650px;
-    
+    max-width: 120%;
+    min-width: 100px;
 }
 
 .icon {
