@@ -3,8 +3,13 @@
     padding-right: 80px;
 }
 
+#myFace img {
+    /* fix min size */
+    min-width: 30px;
+}
+
 h1 > span{
-    color: forestgreen;
+    color:darkorange;
 }
 .socials li {
     list-style: none;
