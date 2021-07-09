@@ -57,12 +57,11 @@ li {
 
 .proj img {
     width: 100%;
-    /* max-width: 600px;
-    min-width: 200px; */
+    min-width: 200px;
     border-radius: 15px;
 }
 
 .description li {
-    list-style-type: disc;
     list-style-position: inside;
+    letter-spacing: 0.6px;
 }
