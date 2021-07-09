@@ -1,6 +1,5 @@
 .inner {
-    padding-left: 80px;
-    padding-right: 80px;
+    padding: 80px 80px 40px 80px;
 }
 
 #myFace img {
@@ -51,9 +50,19 @@ li {
     padding-top: 4px;
 }
 
+.proj {
+    border: 1px solid navy;
+    padding: 30px 20px;
+}
+
 .proj img {
-    max-width: 600px;
-    min-width: 300px;
-    margin-top:20px;
+    width: 100%;
+    /* max-width: 600px;
+    min-width: 200px; */
     border-radius: 15px;
+}
+
+.description li {
+    list-style-type: disc;
+    list-style-position: inside;
 }
