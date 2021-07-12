@@ -1,10 +1,12 @@
 .inner {
     padding: 80px 80px 40px 80px;
+    background-color: darkgray;
 }
 
-#myFace img {
+#myFace {
     /* fix min size */
     min-width: 30px;
+    border-radius: 10px;
 }
 
 h1 > span{
