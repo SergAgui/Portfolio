@@ -53,6 +53,7 @@ li {
 .proj {
     border: 1px solid navy;
     padding: 30px 20px;
+    display: block;
 }
 
 .proj img {
