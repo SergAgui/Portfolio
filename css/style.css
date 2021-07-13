@@ -3,21 +3,42 @@
     background-color: rgb(140, 139, 139);
 }
 
-.self {
-    min-width: 30px;
-    
-}
-
 span{
     color:darkorange;
+}
+
+li {
+    list-style: none;
+}
+
+header {
+    align-items: center;
+    display: flex;
+}
+
+#selfImg {
+    width: 350px;
+    border-radius: 40%;
+    box-shadow: 12px 6px 12px 2px black;
+    margin: 0px 30px 0px 30px;
+    display: flex;
+}
+
+.meDescription h1 {
+    margin: 15px 0px;
+    letter-spacing: 1px;
+}
+
+.meDescription p {
+    letter-spacing: 0.6px;
 }
 
 .orange {
     font-weight: 400;
 }
 
-li {
-    list-style: none;
+.socials {
+    display: flex;
 }
 
 .socialIcon img {
