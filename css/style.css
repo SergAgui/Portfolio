@@ -20,8 +20,6 @@ header {
     width: 350px;
     border-radius: 40%;
     box-shadow: 12px 6px 12px 2px black;
-    margin: 0px 30px 0px 30px;
-    display: flex;
 }
 
 .meDescription h1 {
@@ -37,12 +35,16 @@ header {
     font-weight: 400;
 }
 
-.socials {
-    display: flex;
+.gitIcon {
+    width: 50px;
 }
 
-.socialIcon img {
-    width: 30px !important;
+.linkedinIcon {
+    width: 30px;
+}
+
+.resume {
+    background-color: darkorange;
 }
 
 .contentBox {
