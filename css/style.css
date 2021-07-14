@@ -1,6 +1,6 @@
 .inner {
     padding: 80px 80px 40px 80px;
-    background-color: rgb(140, 139, 139);
+    background-color: #414768;
 }
 
 span{
@@ -35,16 +35,12 @@ header {
     font-weight: 400;
 }
 
-.gitIcon {
-    width: 50px;
-}
-
-.linkedinIcon {
-    width: 30px;
+.socialIcon {
+    width: 40px;
 }
 
 .resume {
-    background-color: darkorange;
+    margin: 0px 15px;
 }
 
 .contentBox {
