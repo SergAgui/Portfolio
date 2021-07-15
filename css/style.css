@@ -4,7 +4,7 @@
 }
 
 span{
-    color:darkorange;
+    color: #ffc107;
 }
 
 li {
@@ -13,13 +13,15 @@ li {
 
 header {
     align-items: center;
-    display: flex;
+    margin: 50px 0px 212px 0px;
+
 }
 
 #selfImg {
     width: 350px;
     border-radius: 40%;
     box-shadow: 12px 6px 12px 2px black;
+    margin-bottom: 20px;
 }
 
 .meDescription h1 {
@@ -42,6 +44,21 @@ header {
 .resume {
     margin: 0px 15px;
     border-radius: 2rem !important;
+    /* background-color: darkorange !important; */
+    
+}
+
+#aboutMe {
+    padding-right: 110px;
+    padding-left: 110px;
+    margin-right: -80px;
+    margin-left: -100px;
+    
+}
+
+#aboutMe p {
+    border: 1px solid magenta;
+    padding: 15px 15px;
 }
 
 .contentBox {
