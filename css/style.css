@@ -47,7 +47,7 @@ header {
 }
 
 #aboutMe {
-    margin: 10px 20px 300px 20px;
+    margin: 10px 20px 250px 20px;
     box-shadow: 12px 6px 12px 2px black;
     border-radius: 50px;
     background-color: #687098;
@@ -61,20 +61,19 @@ header {
 
 .contentBox {
     padding: 80px 45px;
-    border: 1px solid green;
 }
 
 #skills {
     background-color: #687098;
     box-shadow: 12px 6px 12px 2px black;
-    border-radius: 5%;
+    border-radius: 50px;
     width: 80%;
-    margin: 0 10%;
+    margin: 0 10% 250px 10%;
     max-width: 120%;
     min-width: 100px;
 }
 
-#contentTitle {
+.contentTitle {
     font-size: xx-large;
     color: #ffc107;
 }
@@ -100,13 +99,11 @@ header {
 
 #projects {
     background-color: #687098;
-    margin-top: 60px;
-    border-radius: 5%;
+    border-radius: 50px;
     box-shadow: 12px 6px 12px 2px black;
 }
 
 .proj {
-    /* border: 1px solid navy; */
     padding: 30px 20px;
     display: block;
 }
@@ -120,5 +117,19 @@ header {
 .description li {
     list-style-position: inside;
     letter-spacing: 0.6px;
+    color: white;
+}
+
+.gitLink {
+    color:  #ffc107;
+}
+
+.contact {
+    color: white;
+}
+
+.email {
+    border-radius: 2rem !important;    
+    margin: 0px 5px;
     color: white;
 }
